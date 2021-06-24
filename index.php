@@ -42,5 +42,3 @@ echo "</div>";
 
  ?>
 <?php echo file_get_contents("html/footer.html"); ?>
-
-<p>Copyright © Ben Knutson <?php echo date("Y"); ?></p>
