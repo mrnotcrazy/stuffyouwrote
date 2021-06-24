@@ -3,7 +3,7 @@
 
 This is a short and simple setup but it works fine and you can edit it to your hearts content to make it perfect. 
 
-make sure you copy the structure as it is in the repository and change everywhere it says "yourdomain" with your domain. 
+make sure you copy the structure as it is in the repository and change everywhere it says stuffiwrote.net with your domain. 
 
 When adding a new book(post) simply ftp up your files and give them the same name minus the extension, example book1.html, book1.pdf... and so forth
 
